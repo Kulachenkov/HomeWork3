@@ -8,6 +8,7 @@ public class Main {
         // thirdExercise();
         // fourthExercise ();
         // fifthExercise();
+
     }
 
     public static void firstExercise (){
